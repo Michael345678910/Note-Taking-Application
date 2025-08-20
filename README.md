@@ -20,6 +20,14 @@ The Note Taking Application is a Windows Forms application that is developed in 
 
 # File Pathway Tree/ File Directory:
 
+\NoteTakingApplication\
+| --- Program.cs\
+| --- NoteTakingApplication.csproj\
+| --- NoteTakingApplication.sln\
+| --- Form1.resx\
+| --- Form1.cs\
+| --- Form1.Designer.cs
+
 ## Installation & Setup:
 1.	First, clone/save the repository to your local machine. Then ensure you have a C# supporting IDE, (Such as Visual Studio Community 2022).
 2.	Open the project folder in the C# supported IDE, then since there are no additional downloads/libraries required; just compile and run the “Program.cs” file directly.
