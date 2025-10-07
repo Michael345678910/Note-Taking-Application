@@ -13,20 +13,20 @@ The Note Taking Application is a Windows Forms application that is developed in 
 
 # Current Finished Product Images:
 
-### 1. Application Startup Screen 
+### 1. Application Startup Screen:
 ![Note Application – Main Menu](ReadMe_File_Images/Note_Application_Main_Menu.png)
 
 
-### 2. Adding a New Note 
+### 2. Adding a New Note: 
 ![Note Application – Added Note](ReadMe_File_Images/Note_Application_Added_Note.png)
 
 
-### 3. Loading and Updating the Previous Note 
+### 3. Loading and Updating the Previous Note: 
 ![Note Application – Loaded and Updated Note](ReadMe_File_Images/Note_Application_Loaded&Updated_Note.png)
 
 
 
-### 4. Main Menu After Deleting a Note 
+### 4. Main Menu After Deleting a Note: 
 ![Note Application – Main Menu After Deleted Note](ReadMe_File_Images/Note_Application_Main_Menu_After_Deleted_Note.png)
 
 ## Technologies Used:
